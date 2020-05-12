@@ -12,9 +12,9 @@ To watch IPTV you just need to paste this link `https://iptv-org.github.io/iptv/
 
 Also you can instead use one of these playlists:
 
-- `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by country)
-- `https://iptv-org.github.io/iptv/index.category.m3u` (grouped by category)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
+- `https://raw.githubusercontent.com/iptvliveword/NontonTV/master/json/release.json` (grouped by country)
+- `https://raw.githubusercontent.com/iptvliveword/NontonTV/master/json/release.json` (grouped by category)
+- `https://raw.githubusercontent.com/iptvliveword/NontonTV/master/json/release.json` (grouped by language)
 
 Or select one of the playlists from the list below.
 
