@@ -1,9 +1,9 @@
 {
   "categories": [
     {
-      "id": 0, 
+      "id": 0,
       "name": "Nasional"
-    }, 
+    },
     {
       "id": 1,
       "name": "Berita"
@@ -27,19 +27,9 @@
     {
       "id": 6,
       "name": "Olahraga"
-    },
-    {
-      "id": 7,
-      "name": "Privacy Policy"
     }
   ],
   "channels": [
-
-    {
-      "cid": 7,
-      "name": "Privacy_Policy", 
-     "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
-    }, 
     {
       "cid": 6,
       "name": "Action Sports 4U",
