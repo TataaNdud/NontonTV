@@ -2,35 +2,35 @@
   "categories": [
     {
       "id": 0, 
-      "name": "About"
+      "name": "Nasional"
     }, 
     {
       "id": 1,
-      "name": "Nasional"
-    },
-    {
-      "id": 2,
       "name": "Berita"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Hiburan"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Animasi"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Edukasi"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Religi"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Olahraga"
+    },
+    {
+      "id": 7,
+      "name": "About"
     }
   ],
   "channels": [
