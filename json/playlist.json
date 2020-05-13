@@ -30,7 +30,7 @@
     },
     {
       "id": 7,
-      "name": "About"
+      "name": "Privacy Policy"
     }
   ],
   "channels": [
@@ -38,8 +38,6 @@
     {
       "cid": 7,
       "name": "Privacy_Policy", 
-      "tvg_log": "https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWsKJJJJJJJJJJJJJJJJJJJJJJJNJJNJNJ s1600 / index.png"
-
     }, 
     {
       "cid": 6,
