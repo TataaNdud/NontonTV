@@ -1,42 +1,42 @@
 {
   "categories": [
     {
-      "id": 0,
+      "id": 0, 
+      "name": "About"
+    }, 
+    {
+      "id": 1,
       "name": "Nasional"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Berita"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Hiburan"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Animasi"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Edukasi"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Religi"
     },
     {
-      "id": 6,
-      "name": "Olahraga"
-    }, 
-    {
       "id": 7,
-      "name": "About"
+      "name": "Olahraga"
     }
   ],
   "channels": [
     {
       "cid": 6,
-      "url_icon": "https://1.bp.blogspot.com/-oUupr5bWMfQ/Xrlp2ln3CwI/AAAAAAAAAwk/hkCba8fehywr8NZNOOuoVr2M4erEnwhQgCLcBGAsYHQ/s1600/sctv.jpg.webp",
+      "name": "Action Sports 4U",
       "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
     },
     {
@@ -77,7 +77,7 @@
     {
       "cid": 0,
       "name": "ANTV",
-      "stream_url": "http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com"
+      "stream_url": "https://stream.suryaiptv.net/streams/5_.m3u8"
     },
     {
       "cid": 2,
@@ -185,6 +185,11 @@
       "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
     },
     {
+      "cid": 2,
+      "name": "Drakor Plus",
+      "stream_url": "https://stream.suryaiptv.net/streams/132_.m3u8"
+    },
+    {
       "cid": 6,
       "name": "DSport",
       "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
@@ -236,6 +241,11 @@
     },
     {
       "cid": 2,
+      "name": "Fox Life",
+      "stream_url": "https://stream.suryaiptv.net/streams/109_.m3u8"
+    },
+    {
+      "cid": 2,
       "name": "Fox Movies",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
     },
@@ -248,6 +258,11 @@
       "cid": 6,
       "name": "Fox Sports News",
       "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "FTV",
+      "stream_url": "https://stream.suryaiptv.net/streams/134_.m3u8"
     },
     {
       "cid": 0,
@@ -326,6 +341,11 @@
     },
     {
       "cid": 2,
+      "name": "K-Drama",
+      "stream_url": "https://stream.suryaiptv.net/streams/40_.m3u8"
+    },
+    {
+      "cid": 2,
       "name": "KIX",
       "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
     },
@@ -338,6 +358,11 @@
       "cid": 3,
       "name": "Larva TV",
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
+    },
+    {
+      "cid": 2,
+      "name": "M Cine",
+      "stream_url": "https://stream.suryaiptv.net/streams/135_.m3u8"
     },
     {
       "cid": 5,
@@ -506,6 +531,11 @@
     },
     {
       "cid": 2,
+      "name": "Sinema X",
+      "stream_url": "https://stream.suryaiptv.net/streams/114_.m3u8"
+    },
+    {
+      "cid": 2,
       "name": "Sony One",
       "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
     },
@@ -585,7 +615,7 @@
       "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
     },
     {
-      "cid": 0,
+      "cid": 1,
       "name": "TV One",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
     },
