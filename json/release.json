@@ -27,7 +27,11 @@
     {
       "id": 6,
       "name": "Olahraga"
-    }
+    },
+    {
+      "id": 7
+      "name": "ABOUT"
+     }
   ],
   "channels": [
     {
