@@ -2,11 +2,11 @@
   "categories": [
     {
       "id": 0,
-      "name": "Nasional"
+      "name": "Nasional( Id)"
     },
     {
       "id": 1,
-      "name": "Berita"
+      "name": "Berita (news)"
     },
     {
       "id": 2,
