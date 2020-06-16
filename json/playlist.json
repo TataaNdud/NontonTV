@@ -1,31 +1,35 @@
 {
   "categories": [
-    {
+   {
       "id": 0,
-      "name": "Nasional"
+      "name": "Nasional( Id)"
     },
     {
       "id": 1,
-      "name": "Berita"
+      "name": "Nasional( Id)"
     },
     {
       "id": 2,
-      "name": "Hiburan"
+      "name": "Berita (news)"
     },
     {
       "id": 3,
-      "name": "Animasi"
+      "name": "Hiburan"
     },
     {
       "id": 4,
-      "name": "Edukasi"
+      "name": "Animasi"
     },
     {
       "id": 5,
-      "name": "Religi"
+      "name": "Edukasi"
     },
     {
       "id": 6,
+      "name": "Religi"
+    },
+    {
+      "id": 7,
       "name": "Olahraga"
     }
   ],
@@ -72,7 +76,7 @@
     },
     {
       "cid": 0,
-      "name": "ANTV",
+      "name": "ANTvV",
       "stream_url": "http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com"
     },
     {
