@@ -4,10 +4,7 @@
       "id": 0,
       "name": "Nasional( Id)"
     },
-    {
-      "id": 7,
-      "name": "Nasional( Id)"
-    },
+
     {
       "id": 1,
       "name": "Berita (news)"
@@ -32,6 +29,11 @@
       "id": 6,
       "name": "Olahraga"
     }
+    {
+      "id": 7,
+      "name": "Nasional( Id)"
+    }
+  
   ],
   "channels": [
     {
