@@ -28,15 +28,20 @@
       "id": 6,
       "name": "Religi"
     },
-    {
+     {
       "id": 7,
       "name": "Olahraga"
+    },
+
+    {
+      "id": 8,
+      "name": "movies"
     }
   ],
   "channels": [
 
      {
-      "cid": 7,
+      "cid": 8,
       "name": "Gerald’s Game (2017)",
       "stream_url": "https://gounlimited.to/embed-789hg5jzu1uv.html"
     },
