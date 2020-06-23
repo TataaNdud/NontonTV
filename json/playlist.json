@@ -87,9 +87,8 @@
     {
       "cid": 0,
       "name": "ANTV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8"
-   "image\":\"https:\/\/lh3.googleusercontent.com\/-Obz1DTw4O7I\/Xs-Eqmo3C-I\/AAAAAAAAMHY\/kDbJFrSQX7oytNQAaImjG3PtkyOzdovVwCLcBGAsYHQ\/s1600\/1590658216090036-0.png\"
-     },
+      "stream_url": "https://stream.suryaiptv.net/streams/5_.m3u8"
+    },
     {
       "cid": 1,
       "name": "Arirang",
@@ -338,7 +337,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "http://iptv.burhansyam.com/globaltvhd.m3u8"
+      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
     },
     {
       "cid": 2,
@@ -383,12 +382,12 @@
     {
       "cid": 0,
       "name": "Indosiar",
-      "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
     },
     {
       "cid": 1,
       "name": "iNews TV",
-      "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
+      "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
     },
     {
       "cid": 6,
@@ -408,7 +407,7 @@
     {
       "cid": 0,
       "name": "JTV",
-      "stream_url": "https://cdnjt14.useetv.com/joss/18/jtv/chunklist_w1423538836_b684100_sleng_122413.m3u8"
+      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
     },
     {
       "cid": 3,
@@ -463,7 +462,7 @@
     {
       "cid": 0,
       "name": "MNC TV",
-      "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
+      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
     },
     {
       "cid": 2,
@@ -538,7 +537,7 @@
     {
       "cid": 0,
       "name": "NET. TV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/net/chunklist_w370187092_b1344100_sleng_177560.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
     },
     {
       "cid": 1,
@@ -578,7 +577,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "http://iptv.burhansyam.com/rcti.m3u8"
+      "stream_url": "https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8"
     },
     {
       "cid": 7,
