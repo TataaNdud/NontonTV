@@ -407,7 +407,7 @@
     {
       "cid": 0,
       "name": "JTV",
-      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+      "stream_url": "https://cdnjt14.useetv.com/joss/18/jtv/chunklist_w1423538836_b684100_sleng_122413.m3u8"
     },
     {
       "cid": 3,
@@ -462,7 +462,7 @@
     {
       "cid": 0,
       "name": "MNC TV",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
     },
     {
       "cid": 2,
@@ -537,7 +537,7 @@
     {
       "cid": 0,
       "name": "NET. TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/net/chunklist_w370187092_b1344100_sleng_177560.m3u8"
     },
     {
       "cid": 1,
