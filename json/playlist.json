@@ -5,10 +5,6 @@
       "name": "Nasional"
     },
     {
-      "id": 8,
-      "name": "movies"
-    },
-    {
       "id": 1,
       "name": "Berita"
     },
@@ -32,9 +28,13 @@
       "id": 6,
       "name": "Religi"
     },
-    {
+{
       "id": 7,
       "name": "Olahraga"
+    },
+    {
+      "id": 8,
+      "name": "Movies"
     }
   ],
   "channels": [
