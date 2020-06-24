@@ -5,6 +5,10 @@
       "name": "Nasional"
     },
     {
+      "id": 8,
+      "name": "movies"
+    },
+    {
       "id": 1,
       "name": "Berita"
     },
@@ -479,6 +483,12 @@
       "name": "Movies Now",
       "stream_url": "https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8"
     },
+{
+      "cid": 8,
+      "name": "Monsters Inc",
+      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/20231.m3u8"
+    },
+
     {
       "cid": 3,
       "name": "MTV",
