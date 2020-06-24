@@ -762,7 +762,7 @@
       "stream_url": "http://103.16.220.69:1935/golive/livestream/playlist.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "TVRI",
       "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
     },
