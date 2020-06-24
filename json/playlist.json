@@ -429,6 +429,12 @@
       "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
     },
     {
+      "cid": 8,
+      "name": "KILLER KT",
+      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/62239.m3u8"
+    },
+    
+    {
       "cid": 1,
       "name": "Kompas TV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s104/01.m3u8"
