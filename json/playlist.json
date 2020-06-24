@@ -175,7 +175,7 @@
     {
       "cid": 5,
       "name": "Discovery Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8"
     },
     {
       "cid": 4,
@@ -237,6 +237,11 @@
       "cid": 8,
       "name": "Fox Family",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
+    },
+     {
+      "cid": 8,
+      "name": "Food Network",
+      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8 "
     },
     {
       "cid": 8,
@@ -321,7 +326,7 @@
     {
       "cid": 5,
       "name": "History 2",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass"
     },
     {
       "cid": 6,
@@ -702,6 +707,11 @@
       "cid": 8,
       "name": "Warner TV ID HD",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8"
+    },
+     {
+      "cid": 5,
+      "name": "WAKU WAKU JAPAN",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284"
     },
     {
       "cid": 9,
