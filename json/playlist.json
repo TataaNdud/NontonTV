@@ -385,7 +385,7 @@
       "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "iNews TV",
       "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
     },
@@ -450,7 +450,7 @@
       "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "Metro TV",
       "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8"
     },
@@ -735,7 +735,7 @@
       "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
     },
     {
-      "cid": 1,
+      "cid": 0,
       "name": "TV One",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8"
     },
