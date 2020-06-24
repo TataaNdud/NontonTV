@@ -539,22 +539,22 @@
     {
       "cid": 5,
       "name": "Nat Geo Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1310751590_b1344100_sleng_520857.m3u8"
     },
     {
       "cid": 5,
       "name": "Nat Geo People",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w403933494_b1344100_sleng_520855.m3u8"
     },
     {
       "cid": 5,
       "name": "Nat Geo Wild",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8"
     },
     {
-      "cid": 2,
+      "cid": ,
       "name": "National Geographic",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8"
+      "stream_url": ""
     },
     {
       "cid": 0,
