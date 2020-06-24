@@ -14,21 +14,25 @@
     },
     {
       "id": 7,
-      "name": "Olahraga"
+      "name": "SPORTS"
     },
     {
       "id": 4,
-      "name": "Anak"
+      "name": "KIDS"
+    },
+    {
+      "id": 5,
+      "name": "INDO KNOWLEDGE"
+    },
+    {
+      "id": 9,
+      "name": "INDIA"
     },
     {
       "id": 1,
       "name": "Berita"
     },
-    {
-      "id": 5,
-      "name": "Edukasi"
-    },
-{
+   {
       "id": 6,
       "name": "Religi"
     },
@@ -698,6 +702,51 @@
       "cid": 8,
       "name": "Warner TV ID HD",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Colors HD",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/42.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Zee TV",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/51.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Zee Action",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/46.m3u8"
+    },
+     {
+      "cid": 9,
+      "name": "Zee Classic",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/48.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Star Gold HD",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/40.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Star PLUS",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/41.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Sony SAB",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/45.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Hum Masala",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/49.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Sony TV",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/43.m3u8"
     },
     {
       "cid": 8,
