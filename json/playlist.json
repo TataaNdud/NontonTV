@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "name": "Hiburan"
+      "name": "KOREA"
     },
     {
       "id": 3,
@@ -631,6 +631,16 @@
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
     },
     {
+      "cid": 1,
+      "name": "TVN",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559"
+    },
+    {
+      "cid": 1,
+      "name": "TVN MOVIES",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&ex"
+    },
+    {
       "cid": 3,
       "name": "Urban Music",
       "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
@@ -646,12 +656,12 @@
       "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 8,
       "name": "Warner TV ID HD",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 8,
       "name": "Zee Bioskop",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
     }
