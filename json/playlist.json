@@ -4,14 +4,9 @@
       "id": 0,
       "name": "Nasional"
     },
-    
     {
       "id": 8,
       "name": "MOVIES"
-    },
-    {
-      "id": 1,
-      "name": "Berita"
     },
     {
       "id": 2,
@@ -24,6 +19,10 @@
     {
       "id": 4,
       "name": "Anak"
+    },
+    {
+      "id": 1,
+      "name": "Berita"
     },
     {
       "id": 5,
@@ -135,6 +134,16 @@
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
     },
     {
+      "cid": 7,
+      "name": "Champions TV 1",
+      "stream_url": "https://cdnjt14.useetv.com/joss/15/champion1/chunklist_w854858626_b1344100_sleng_1262.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Champions TV 2",
+      "stream_url": "https://cdnjt14.useetv.com/joss/15/champion2/chunklist_w426217090_b1344100_sleng_30329.m3u8"
+    },
+    {
       "cid": 8,
       "name": "CiTRA DRAMA",
       "stream_url": "https://edgejt6.useetv.com/joss/18/cdrama/chunklist_w472709562_b684100_sleng_7437.m3u8"
@@ -234,6 +243,11 @@
       "cid": 8,
       "name": "Fox Movies",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+    },
+    {
+      "cid": 7,
+      "name": "FIGHT BOX",
+      "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
     },
     {
       "cid": 7,
@@ -394,6 +408,11 @@
       "cid": 8,
       "name": "Movie Kingdom",
       "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "MOLA SPORT",
+      "stream_url": "https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-"
     },
     {
       "cid": 3,
