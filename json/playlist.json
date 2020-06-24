@@ -77,12 +77,12 @@
     {
       "cid": 4,
       "name": "Animax Asia",
-      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/animax/chunklist_w193028450_b684100_sleng_62816.m3u8"
     },
     {
       "cid": 4,
       "name": "Aniplus Asia",
-      "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/aniplus/chunklist_w99804434_b684100_sleng_46571.m3u8"
     },
     {
       "cid": 0,
@@ -112,7 +112,7 @@
     {
       "cid": 4,
       "name": "NICKELODEON ASIA",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sleng_80926.m3u8"
     },
     {
       "cid": 1,
@@ -155,6 +155,16 @@
       "stream_url": "https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8"
     },
     {
+      "cid": 2,
+      "name": "Disney Junior",
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Boomerang",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/boomerang/chunklist_w786598174_b684100_sleng_54965.m3u8"
+    },
+    {
       "cid": 3,
       "name": "Box Hits",
       "stream_url": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f"
@@ -183,11 +193,6 @@
       "cid": 8,
       "name": "CINEMAX",
       "stream_url": "https://iptv.burhansyam.com/hbotest/max.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "CHIENES DRAMA",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/chinesedrama/chunklist_w290452674_b684100_sleng_7437.m3u8"
     },
     {
       "cid": 1,
@@ -312,8 +317,8 @@
     },
     {
       "cid": 8,
-      "name": "Fox Life",
-      "stream_url": "https://stream.suryaiptv.net/streams/109_.m3u8"
+      "name": "Fox Action Movies",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1744735983"
     },
     {
       "cid": 8,
@@ -554,6 +559,11 @@
       "cid": 5,
       "name": "Nat Geo Wild",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "NICK JR",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8"
     },
     {
       "cid": 0,
