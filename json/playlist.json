@@ -18,8 +18,8 @@
       "name": "KOREA"
     },
     {
-      "id": 3,
-      "name": "Musik"
+      "id": 7,
+      "name": "Olahraga"
     },
     {
       "id": 4,
@@ -34,21 +34,11 @@
       "name": "Religi"
     },
     {
-      "id": 7,
-      "name": "Olahraga"
+      "id": 3,
+      "name": "MUSIC"
     }
   ],
   "channels": [
-    {
-      "cid": 7,
-      "name": "Action Sports 4U",
-      "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Adventure Sports Network",
-      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
-    },
     {
       "cid": 6,
       "name": "Ahsan TV",
@@ -103,6 +93,21 @@
       "cid": 1,
       "name": "BeritaSatu",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "BEIN SPORT XTRA",
+      "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "BEIN SPORT1",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng_16277.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "BEIN SPORT2",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w599886783_b1344100_sleng_73846.m3u8"
     },
     {
       "cid": 8,
@@ -195,7 +200,7 @@
       "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
     },
     {
-      "cid": 4,
+      "cid": 8,
       "name": "Duck TV",
       "stream_url": "https://edgejt6.useetv.com/joss/18/ducktv/chunklist_w981965478_b684100_sleng_21378.m3u8"
     },
@@ -232,8 +237,18 @@
     },
     {
       "cid": 7,
-      "name": "Fox Sports",
-      "stream_url": "http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8"
+      "name": "Fox Sports1",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng_26373.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports2",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1139282438_b1344100_sleng_17373.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports3",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng_42637.m3u8"
     },
     {
       "cid": 7,
@@ -396,9 +411,9 @@
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
-      "cid": 6,
-      "name": "Nabawi TV",
-      "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
+      "cid": 7,
+      "name": "NBA TV",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8"
     },
     {
       "cid": 5,
@@ -501,11 +516,6 @@
       "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
     },
     {
-      "cid": 7,
-      "name": "RTM Sports",
-      "stream_url": "https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8"
-    },
-    {
       "cid": 0,
       "name": "SCTV",
       "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
@@ -531,16 +541,6 @@
       "stream_url": "https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Sony Ten 2",
-      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Sony Ten 3",
-      "stream_url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
-    },
-    {
       "cid": 4,
       "name": "Spacetoon",
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
@@ -564,11 +564,6 @@
       "cid": 6,
       "name": "Tegar TV",
       "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Tennis Channel",
-      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
     },
     {
       "cid": 7,
