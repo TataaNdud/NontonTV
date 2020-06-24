@@ -110,11 +110,6 @@
       "stream_url": "http://210.210.155.66/h/h141/02.m3u8"
     },
     {
-      "cid": 4,
-      "name": "NICKELODEON ASIA",
-      "stream_url": "https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sleng_80926.m3u8"
-    },
-    {
       "cid": 1,
       "name": "BBC World News",
       "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
@@ -130,11 +125,6 @@
       "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
     },
     {
-      "cid": 4,
-      "name": "Biznet Kids",
-      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
-    },
-    {
       "cid": 2,
       "name": "Biznet Lifestyle",
       "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
@@ -145,22 +135,17 @@
       "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Boing TV",
-      "stream_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8"
-    },
-    {
       "cid": 2,
       "name": "BIOSKOP INDONESIA",
       "stream_url": "https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 4,
       "name": "Disney Junior",
       "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 4,
       "name": "Boomerang",
       "stream_url": "https://edgejt6.useetv.com/joss/18/boomerang/chunklist_w786598174_b684100_sleng_54965.m3u8"
     },
@@ -216,11 +201,6 @@
     },
     {
       "cid": 4,
-      "name": "Disney Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass"
-    },
-    {
-      "cid": 4,
       "name": "Disney Junior Asia",
       "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
     },
@@ -262,11 +242,11 @@
     {
       "cid": 4,
       "name": "Duck TV",
-      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/ducktv/chunklist_w981965478_b684100_sleng_21378.m3u8"
     },
 
 {
-      "cid": 2,
+      "cid": 8,
       "name": "DreamWork",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng_21729.m3u8"
     },
@@ -486,11 +466,6 @@
       "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Miao Mi",
-      "stream_url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8"
-    },
-    {
       "cid": 0,
       "name": "MNC TV",
       "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
@@ -531,11 +506,6 @@
       "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
     },
     {
-      "cid": 4,
-      "name": "My Kids",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
-    },
-    {
       "cid": 6,
       "name": "Nabawi TV",
       "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
@@ -559,6 +529,11 @@
       "cid": 5,
       "name": "Nat Geo Wild",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "NICKELODEON ASIA",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sleng_80926.m3u8"
     },
     {
       "cid": 4,
@@ -739,11 +714,6 @@
       "cid": 4,
       "name": "Tom Jerry TV",
       "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
-    },
-    {
-      "cid": 4,
-      "name": "Toonmax",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
     },
     {
       "cid": 3,
