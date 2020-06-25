@@ -492,6 +492,36 @@
       "name": "Spacetoon",
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
     },
+   {
+      "cid": 7,
+      "name": "Sky Sports 1",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 2",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 3",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 4",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 5",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 6",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8"
+    },
     {
       "cid": 7,
       "name": "MOTORSPORT.TV",
