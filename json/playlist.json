@@ -83,18 +83,18 @@
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     },
     {
-      "cid": 8,
-      "name": "Arena Sport 2",
+      "cid": 7,
+      "name": "Arena Sport 7",
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby"
     },
     {
       "cid": 8,
-      "name": "Arena Sport 3",
+      "name": "Arena Sport 7",
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby"
     },
     {
       "cid": 8,
-      "name": "Arena Sport 4",
+      "name": "Arena Sport 7",
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
     },
     {
@@ -259,7 +259,7 @@
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
     },
      {
-      "cid": 8,
+      "cid": 5,
       "name": "Food Network",
       "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8 "
     },
