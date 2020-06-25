@@ -4,56 +4,44 @@
       "id": 0,
       "name": "Nasional"
     },
-    
     {
       "id": 8,
       "name": "MOVIES"
     },
     {
-      "id": 1,
-      "name": "Berita"
-    },
-    {
       "id": 2,
-      "name": "Hiburan"
+      "name": "KOREA"
     },
     {
-      "id": 3,
-      "name": "Musik"
+      "id": 7,
+      "name": "SPORTS"
     },
     {
       "id": 4,
-      "name": "Anak"
+      "name": "KIDS"
     },
     {
       "id": 5,
-      "name": "Edukasi"
+      "name": "INDO KNOWLEDGE"
     },
-{
+    {
+      "id": 9,
+      "name": "INDIA"
+    },
+    {
+      "id": 1,
+      "name": "Berita"
+    },
+   {
       "id": 6,
       "name": "Religi"
     },
     {
-      "id": 7,
-      "name": "Olahraga"
+      "id": 3,
+      "name": "MUSIC"
     }
   ],
   "channels": [
-    {
-      "cid": 7,
-      "name": "Action Sports 4U",
-      "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Adventure Sports Network",
-      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "AFV Family",
-      "stream_url": "http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
-    },
     {
       "cid": 6,
       "name": "Ahsan TV",
@@ -77,12 +65,12 @@
     {
       "cid": 4,
       "name": "Animax Asia",
-      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+      "stream_url": "http://210.210.155.35/dr9445/h/h144/01.m3u8"
     },
     {
       "cid": 4,
       "name": "Aniplus Asia",
-      "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
+      "stream_url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 0,
@@ -95,24 +83,24 @@
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     },
     {
-      "cid": 2,
-      "name": "AutoMoto TV",
-      "stream_url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+      "cid": 7,
+      "name": "Arena Sport 2",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby"
+    },
+    {
+      "cid": 7,
+      "name": "Arena Sport 3",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby"
+    },
+    {
+      "cid": 7,
+      "name": "Arena Sport 4",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
     },
     {
       "cid": 1,
       "name": "Awani",
       "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "AXN",
-      "stream_url": "http://210.210.155.66/h/h141/02.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "NICKELODEON ASIA",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
     },
     {
       "cid": 1,
@@ -125,34 +113,29 @@
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Biznet Adventure",
-      "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
+      "cid": 7,
+      "name": "BEIN SPORT XTRA",
+      "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Biznet Kids",
-      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+      "cid": 7,
+      "name": "BEIN SPORT1",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w107534727_b1344100_sleng_16277.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Biznet Lifestyle",
-      "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
+      "cid": 7,
+      "name": "BEIN SPORT2",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w599886783_b1344100_sleng_73846.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Blue Ant Extreme",
-      "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Boing TV",
-      "stream_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8"
-    },
-    {
-      "cid": 2,
+      "cid": 8,
       "name": "BIOSKOP INDONESIA",
       "stream_url": "https://edgejt6.useetv.com/joss/18/bioskopindonesia/chunklist_w1346003557_b684100_sleng_520881.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Boomerang",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/boomerang/chunklist_w786598174_b684100_sleng_54965.m3u8"
     },
     {
       "cid": 3,
@@ -162,12 +145,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
-    },
-    {
-      "cid": 2,
-      "name": "Celestial Movies",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/cartoonnetwork/chunklist_w1161141532_b684100_sleng_54935.m3u8"
     },
     {
       "cid": 1,
@@ -175,19 +153,29 @@
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 7,
+      "name": "Champions TV 1",
+      "stream_url": "https://cdnjt14.useetv.com/joss/15/champion1/chunklist_w854858626_b1344100_sleng_1262.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Champions TV 2",
+      "stream_url": "https://cdnjt14.useetv.com/joss/15/champion2/chunklist_w426217090_b1344100_sleng_30329.m3u8"
+    },
+    {
+      "cid": 8,
       "name": "CiTRA DRAMA",
       "stream_url": "https://edgejt6.useetv.com/joss/18/cdrama/chunklist_w472709562_b684100_sleng_7437.m3u8"
     },
     {
       "cid": 8,
-      "name": "CINEMAX",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/max.m3u8"
+      "name": "Celestial Movies",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s33/01.m3u8"
     },
     {
       "cid": 8,
-      "name": "CHIENES DRAMA",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/chinesedrama/chunklist_w290452674_b684100_sleng_7437.m3u8"
+      "name": "CINEMAX",
+      "stream_url": "https://iptv.burhansyam.com/hbotest/max.m3u8"
     },
     {
       "cid": 1,
@@ -207,12 +195,7 @@
     {
       "cid": 5,
       "name": "Discovery Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass"
-    },
-    {
-      "cid": 4,
-      "name": "Disney Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8"
     },
     {
       "cid": 4,
@@ -245,23 +228,18 @@
       "stream_url": "http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Drakor Plus",
-      "stream_url": "https://stream.suryaiptv.net/streams/132_.m3u8"
-    },
-    {
       "cid": 7,
       "name": "DSport",
       "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
     },
     {
-      "cid": 4,
+      "cid": 8,
       "name": "Duck TV",
-      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8"
+      "stream_url": "https://edgejt6.useetv.com/joss/18/ducktv/chunklist_w981965478_b684100_sleng_21378.m3u8"
     },
 
 {
-      "cid": 2,
+      "cid": 4,
       "name": "DreamWork",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng_21729.m3u8"
     },
@@ -269,36 +247,6 @@
       "cid": 6,
       "name": "Elshinta TV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "English Club",
-      "stream_url": "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "FailArmy",
-      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Fashion TV",
-      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist==.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Fashion TV Midnight",
-      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Food Food",
-      "stream_url": "https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Food Network",
-      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8"
     },
     {
       "cid": 8,
@@ -310,10 +258,15 @@
       "name": "Fox Family",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
     },
+     {
+      "cid": 5,
+      "name": "Food Network",
+      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8 "
+    },
     {
       "cid": 8,
-      "name": "Fox Life",
-      "stream_url": "https://stream.suryaiptv.net/streams/109_.m3u8"
+      "name": "Fox Action Movies",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1744735983"
     },
     {
       "cid": 8,
@@ -322,18 +275,28 @@
     },
     {
       "cid": 7,
-      "name": "Fox Sports",
-      "stream_url": "http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8"
+      "name": "FIGHT BOX",
+      "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports1",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng_26373.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports2",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1139282438_b1344100_sleng_17373.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports3",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng_42637.m3u8"
     },
     {
       "cid": 7,
       "name": "Fox Sports News",
       "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "FTV",
-      "stream_url": "https://stream.suryaiptv.net/streams/134_.m3u8"
     },
     {
       "cid": 7,
@@ -353,7 +316,7 @@
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "https://iptv.burhansyam.com/hbo/index.php"
+      "stream_url": "https://iptv.burhansyam.com/hbotest/hbo.m3u8"
     },
     {
       "cid": 8,
@@ -376,11 +339,6 @@
       "stream_url": "https://iptv.burhansyam.com/hbotest/red.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Hi Indo!",
-      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8"
-    },
-    {
       "cid": 6,
       "name": "Hidup TV",
       "stream_url": "http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8"
@@ -388,17 +346,7 @@
     {
       "cid": 5,
       "name": "History 2",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Hits",
-      "stream_url": "http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Home & Living",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass"
     },
     {
       "cid": 6,
@@ -442,34 +390,23 @@
     },
     {
       "cid": 2,
-      "name": "K-Drama",
-      "stream_url": "https://stream.suryaiptv.net/streams/40_.m3u8"
+      "name": "K+",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8"
     },
     {
       "cid": 2,
-      "name": "KIX",
-      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
+      "name": "KBS WORLD",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8"
     },
     {
-      "cid": 8,
-      "name": "KILLER KT",
-      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/62239.m3u8"
-    },
-    
-    {
-      "cid": 1,
+      "cid": 0,
       "name": "Kompas TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s104/01.m3u8"
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_519839.m3u8"
     },
     {
       "cid": 4,
       "name": "Larva TV",
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
-    },
-    {
-      "cid": 2,
-      "name": "M Cine",
-      "stream_url": "https://stream.suryaiptv.net/streams/135_.m3u8"
     },
     {
       "cid": 6,
@@ -487,36 +424,25 @@
       "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Miao Mi",
-      "stream_url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8"
-    },
-    {
       "cid": 0,
       "name": "MNC TV",
       "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 8,
       "name": "MNX Movies",
       "stream_url": "https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 8,
       "name": "Movie Kingdom",
       "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Movies Now",
-      "stream_url": "https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8"
+      "cid": 7,
+      "name": "MOLA SPORT",
+      "stream_url": "https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-"
     },
-    {
-      "cid": 8,
-      "name": "Monsters Inc",
-      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/20231.m3u8"
-    },
-
     {
       "cid": 3,
       "name": "MTV",
@@ -533,19 +459,9 @@
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
-      "cid": 2,
-      "name": "My Cinema",
-      "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "My Kids",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Nabawi TV",
-      "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
+      "cid": 7,
+      "name": "NBA TV",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/nba/chunklist_w2141500514_b1344100_sleng_97037.m3u8"
     },
     {
       "cid": 5,
@@ -566,6 +482,16 @@
       "cid": 5,
       "name": "Nat Geo Wild",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "NICKELODEON ASIA",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/nickelodeon/chunklist_w1557999000_b684100_sleng_80926.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "NICK JR",
+      "stream_url": "https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8"
     },
     {
       "cid": 0,
@@ -603,7 +529,7 @@
       "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
     },
     {
-      "cid": 2,
+      "cid": 8,
       "name": "Rai Movie",
       "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
     },
@@ -633,19 +559,9 @@
       "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Romedy Now",
-      "stream_url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8"
-    },
-    {
       "cid": 1,
       "name": "RRI Net",
       "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "RTM Sports",
-      "stream_url": "https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8"
     },
     {
       "cid": 0,
@@ -654,33 +570,23 @@
     },
     {
       "cid": 2,
-      "name": "Sinema Indonesia",
-      "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
+      "name": "SBS PLUS",
+      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8"
     },
     {
       "cid": 2,
-      "name": "Sinema X",
-      "stream_url": "https://stream.suryaiptv.net/streams/114_.m3u8"
+      "name": "SBS STAR",
+      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8"
     },
     {
       "cid": 2,
-      "name": "Sony One",
-      "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
+      "name": "Sony GEM",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Sony Ten 1",
-      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Sony Ten 2",
-      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Sony Ten 3",
-      "stream_url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
+      "cid": 2,
+      "name": "Sony ONE",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8"
     },
     {
       "cid": 4,
@@ -688,14 +594,9 @@
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
     },
     {
-      "cid": 2,
-      "name": "Star Movies",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Star World",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8"
+      "cid": 7,
+      "name": "MOTORSPORT.TV",
+      "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
     },
     {
       "cid": 3,
@@ -719,18 +620,8 @@
     },
     {
       "cid": 7,
-      "name": "Tennis Channel",
-      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
-    },
-    {
-      "cid": 7,
       "name": "Tennis Channel Plus",
       "stream_url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "The Pet Collective",
-      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
     },
     {
       "cid": 8,
@@ -738,14 +629,9 @@
       "stream_url": "https://cdnbdsa1.useetv.com/joss/18/thrill/chunklist_w507515835_b684100_sleng_520881.m3u8"
     },
     {
-      "cid": 4,
+      "cid": 8,
       "name": "Tom Jerry TV",
       "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
-    },
-    {
-      "cid": 4,
-      "name": "Toonmax",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
     },
     {
       "cid": 3,
@@ -818,14 +704,29 @@
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
     },
     {
+      "cid": 2,
+      "name": "TVN",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559"
+    },
+    {
+      "cid": 2,
+      "name": "TVN MOVIES",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&ex"
+    },
+    {
       "cid": 3,
       "name": "Urban Music",
       "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
     },
     {
-      "cid": 2,
-      "name": "USA Network",
-      "stream_url": "http://cdnak8.cast4u.info/channels/4/10804.m3u8"
+      "cid": 7,
+      "name": "Use Sports 1",
+      "stream_url": "https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w773053101_b894100_sleng_176248.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Use Sports 2",
+      "stream_url": "https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w925649068_b894100_sleng_557890.m3u8"
     },
     {
       "cid": 3,
@@ -838,17 +739,62 @@
       "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
     },
     {
-      "cid": 2,
-      "name": "World Fashion TV",
-      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
-    },
-    {
-      "cid": 2,
+      "cid": 8,
       "name": "Warner TV ID HD",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8"
     },
+     {
+      "cid": 5,
+      "name": "WAKU WAKU JAPAN",
+      "stream_url": "https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284"
+    },
     {
-      "cid": 2,
+      "cid": 9,
+      "name": "Colors HD",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/42.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Zee TV",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/51.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Zee Action",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/46.m3u8"
+    },
+     {
+      "cid": 9,
+      "name": "Zee Classic",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/48.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Star Gold HD",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/40.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Star PLUS",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/41.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Sony SAB",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/45.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Hum Masala",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/49.m3u8"
+    },
+    {
+      "cid": 9,
+      "name": "Sony TV",
+      "stream_url": "http://103.135.208.14:80/live/ibox/bd/43.m3u8"
+    },
+    {
+      "cid": 8,
       "name": "Zee Bioskop",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
     }
