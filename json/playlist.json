@@ -245,11 +245,6 @@
     },
     {
       "cid": 8,
-      "name": "Eurosport 2",
-      "stream_url": "http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/160823?checkedby"
-    },
-    {
-      "cid": 8,
       "name": "Fox",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass"
     },
@@ -594,7 +589,7 @@
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
     },
     {
-      "cid": 8,
+      "cid": 7,
       "name": "MOTORSPORT.TV",
       "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
     },
