@@ -73,11 +73,6 @@
       "stream_url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8"
     },
     {
-      "cid": 0,
-      "name": "ANTV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8"
-    },
-    {
       "cid": 1,
       "name": "Arirang",
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
@@ -355,11 +350,6 @@
     },
     {
       "cid": 0,
-      "name": "Indosiar",
-      "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
-    },
-    {
-      "cid": 0,
       "name": "iNews TV",
       "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
     },
@@ -397,11 +387,6 @@
       "cid": 2,
       "name": "KBS WORLD",
       "stream_url": "https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Kompas TV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_519839.m3u8"
     },
     {
       "cid": 4,
@@ -492,11 +477,6 @@
       "cid": 4,
       "name": "NICK JR",
       "stream_url": "https://edgejt6.useetv.com/joss/18/nickjr/chunklist_w1891479373_b684100_sleng_80916.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "NET. TV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/net/chunklist_w370187092_b1344100_sleng_177560.m3u8"
     },
     {
       "cid": 1,
@@ -652,11 +632,6 @@
       "cid": 6,
       "name": "TV Ikim",
       "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TV One",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8"
     },
     {
       "cid": 1,
