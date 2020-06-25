@@ -83,6 +83,21 @@
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     },
     {
+      "cid": 8,
+      "name": "Arena Sport 2",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby"
+    },
+    {
+      "cid": 8,
+      "name": "Arena Sport 3",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby"
+    },
+    {
+      "cid": 8,
+      "name": "Arena Sport 4",
+      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
+    },
+    {
       "cid": 1,
       "name": "Awani",
       "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
@@ -227,6 +242,11 @@
       "cid": 6,
       "name": "Elshinta TV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "Eurosport 2",
+      "stream_url": "http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/160823?checkedby"
     },
     {
       "cid": 8,
@@ -572,6 +592,11 @@
       "cid": 4,
       "name": "Spacetoon",
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "MOTORSPORT.TV",
+      "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
     },
     {
       "cid": 3,
