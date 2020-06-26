@@ -133,6 +133,11 @@
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
     },
 {
+      "cid": 1,
+      "name": "Chinese Drama",
+      "stream_url": "https://cdnjt25.useetv.com/joss/18/chinesedrama/chunklist_w815658086_b684100_sleng_7437.m3u8"
+    },
+{
       "cid": 8,
       "name": "Celestial Movies",
       "stream_url": "http://45.126.83.51/qwr9ew/s/s33/01.m3u8"
@@ -321,6 +326,11 @@
       "cid": 0,
       "name": "iNews TV",
       "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
+    },
+{
+      "cid": 0,
+      "name": "indosiar",
+      "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
     },
     {
       "cid": 6,
