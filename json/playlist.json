@@ -177,10 +177,20 @@
       "name": "Disney Junior Asia",
       "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
     },
-{
+    {
       "cid": 4,
       "name": "Dream Work",
       "stream_url": "https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_w243127922_b1344100_sleng_21729.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "DRAGON BALL KAI",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv"
+    },
+{
+      "cid": 4,
+      "name": "DRAGON BALL Z",
+      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv"
     },
     {
       "cid": 3,
@@ -486,6 +496,16 @@
       "cid": 7,
       "name": "Olympic Channel",
       "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "ONE PUCH MAN",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv"
+    },
+{
+      "cid": 4,
+      "name": "One PIECE TV",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv"
     },
     {
       "cid": 2,
