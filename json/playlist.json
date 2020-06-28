@@ -74,7 +74,7 @@
     },
     {
       "cid": 4,
-      "name": "Aniplus Asia",
+      "name": "Aniplus",
       "stream_url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8"
     },
     {
@@ -119,12 +119,12 @@
     },
      {
       "cid": 7,
-      "name": "BEIN SPORT 1",
+      "name": "BEIN SPORT 1 (error)",
       "stream_url": "https://cdngb196.useetv.com/joss/15/bein1/chunklist_w287515866_b1344100_sleng.m3u8?enc=eQSHPgsHEZJk2Vylsq492A&exp=1593333029"
     },
     {
       "cid": 7,
-      "name": "BEIN SPORT 2",
+      "name": "BEIN SPORT 2 ( Error) ",
       "stream_url": "https://cdngb196.useetv.com/joss/15/bein2/chunklist_w520977807_b1344100_sleng.m3u8?enc=c-U-9AUoNDnRhicoAlDk9g&exp=1593331907"
     },
     {
@@ -138,14 +138,9 @@
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
     },
 {
-      "cid": 1,
-      "name": "Chinese Drama",
-      "stream_url": "https://cdnjt25.useetv.com/joss/18/chinesedrama/chunklist_w815658086_b684100_sleng_7437.m3u8"
-    },
-{
       "cid": 8,
-      "name": "Celestial Movies",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s33/01.m3u8"
+      "name": "Celestial movies",
+      "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
     },
     {
       "cid": 4,
@@ -175,7 +170,7 @@
     {
       "cid": 5,
       "name": "Discovery Channel",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/disco/chunklist_w192390990_b1344100_sleng_99925.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass"
     },
     {
       "cid": 4,
@@ -216,11 +211,6 @@
       "cid": 3,
       "name": "DJing Summer Vibes",
       "stream_url": "https://www.djing.com/tv/session_summer-vibes.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "DocuBox",
-      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"
     },
     {
       "cid": 7,
@@ -279,8 +269,8 @@
     },
     {
       "cid": 7,
-      "name": "Fox Sports News",
-      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+      "name": "Fight Time",
+      "stream_url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
     },
     {
       "cid": 7,
@@ -329,8 +319,8 @@
     },
     {
       "cid": 5,
-      "name": "History 2",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/history/chunklist_w1377652166_b1344100_sleng_99926.m3u8"
+      "name": "History",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass"
     },
     {
       "cid": 6,
@@ -375,7 +365,7 @@
      {
       "cid": 2,
       "name": "K +",
-      "stream_url": "http://iptv.burhansyam.com/useetv/kplus.m3u8"
+      "stream_url": "http://210.210.155.35:80/uq2663/h/h08/01.m3u8"
     },
 {
       "cid": 2,
@@ -386,11 +376,6 @@
       "cid": 3,
       "name": "Karaoke Channel",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "Kix",
-      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8"
     },
     {
       "cid": 4,
@@ -448,9 +433,9 @@
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
-      "cid": 5,
-      "name": "NASA TV",
-      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+      "cid": 7,
+      "name": "Nba tv",
+      "stream_url": "http://iptv.burhansyam.com/useetv/nba.m3u8"
     },
 {
       "cid": 5,
@@ -475,7 +460,7 @@
     {
       "cid": 4,
       "name": "NICKELODEON ASIA",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/nickelodeon/chunklist_w187667924_b684100_sleng.m3u8?enc=JOORpy4CD1H0wEavXCH9_Q&exp=1593332686"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
     },
 {
       "cid": 4,
@@ -637,11 +622,6 @@
       "name": "MOTORSPORT.TV",
       "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
     },
-{
-      "cid": 8,
-      "name": "Sinema Indonesia",
-      "stream_url": "http://45.126.83.51/x6bnqe/s/s71/index2.m3u8"
-    },
     {
       "cid": 3,
       "name": "Street Music",
@@ -705,7 +685,7 @@
     {
       "cid": 0,
       "name": "TVRI",
-      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+      "stream_url": "http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8"
     },
     {
       "cid": 1,
@@ -735,7 +715,7 @@
     {
       "cid": 7,
       "name": "TVRI Sport",
-      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
+      "stream_url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"
     },
     {
       "cid": 1,
@@ -795,7 +775,7 @@
 {
       "cid": 2,
       "name": "Sony Gem",
-      "stream_url": "http://iptv.burhansyam.com/useetv/sgem.m3u8"
+      "stream_url": "http://210.210.155.35:80/uq2663/h/h19/01.m3u8"
     },
     {
       "cid": 9,
@@ -815,7 +795,7 @@
     {
       "cid": 8,
       "name": "Zee Bioskop",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+      "stream_url": "http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8"
     }
   ]
 }
