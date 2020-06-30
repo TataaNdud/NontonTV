@@ -749,13 +749,8 @@
       "stream_url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"
     },
     {
-      "cid": 1,
-      "name": "TVRI Yogyakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
-    },
-{
       "cid": 4,
-      "name": "Toonmax,
+      "name": "TOONMAX",
       "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
     },
     {
