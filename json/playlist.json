@@ -1,3 +1,4 @@
+
 {
   "categories": [
     {
@@ -10,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "KOREA & Entertainment"
+      "name": "KOREA"
     },
     {
       "id": 7,
@@ -64,8 +65,8 @@
     },
     {
       "cid": 4,
-      "name": "Animax",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/animax/chunklist_w1656736008_b684100_sleng.m3u8?enc=0XEJpnT7ZwQKnGorPofa9Q&exp=1593483887"
+      "name": "ANIMAX",
+      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
     },
 {
       "cid": 0,
@@ -75,7 +76,7 @@
     {
       "cid": 4,
       "name": "ANIPLUS",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/aniplus.m3u8"
+      "stream_url": "http://210.210.155.35/session/55d75cf2-ba87-11ea-a85b-9dfe94c46bd1/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 1,
@@ -112,19 +113,24 @@
       "name": "BeritaSatu",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
     },
+{
+      "cid": 8,
+      "name": "Bioskop Indonesia",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bioskopindonesia.m3u8"
+    },
     {
       "cid": 7,
       "name": "BEIN SPORT XTRA",
       "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
     },
-     {
+{
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://cdngb196.useetv.com/joss/15/bein1/chunklist_w1927223409_b1344100_sleng.m3u8?enc=eif3519LO164_B2uXtBeGw&exp=1593483108"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein1.m3u8"
     },
-    {
+{
       "cid": 7,
-      "name": "BEIN SPORT 2 ( Error) ",
+      "name": "BEIN SPORT 2",
       "stream_url": "http://brhn.xyz/useetvgo/m3u/bein2.m3u8"
     },
     {
@@ -145,12 +151,12 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
     },
     {
       "cid": 8,
       "name": "CINEMAX",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/max.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/max.m3u8"
     },
     {
       "cid": 1,
@@ -160,17 +166,17 @@
     {
       "cid": 7,
       "name": "Champions TV1",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448882~acl=/hls-p/ingest_geo_6685_*/*~hmac=6d01c917f0ebc4f7deaf7d9f31bfa12dcef789fa01159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505319~acl=/hls-p/ingest_geo_6685_*/*~hmac=a2b466a534685ada7c198e5049689d616a0d75779739176ba4eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV2",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448940~acl=/hls-b/ingest_geo_6686_*/*~hmac=b69125f09edda7e871b98c72ac65ef84e14901ef166e6d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505353~acl=/hls-p/ingest_geo_6686_*/*~hmac=06557c2a5dfa3b665ff51320718a5f658ae66b288f325fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV3",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448993~acl=/hls-p/ingest_geo_6786_*/*~hmac=38d5878391d600e32c2cacf53cee78ff406729f8071a7b50683c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505367~acl=/hls-p/ingest_geo_6786_*/*~hmac=5d2706b6a5cdd69cfd9e37c5b80d1ead56e77906ee70ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
     {
       "cid": 3,
@@ -190,7 +196,7 @@
     {
       "cid": 4,
       "name": "Dream Work",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/15/dreamworks/chunklist_w2138088019_b1344100_sleng.m3u8?enc=TWVidivjyEEHF-yAeSj9dQ&exp=1593444286"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/dreamworks.m3u8"
     },
     {
       "cid": 4,
@@ -245,7 +251,7 @@
      {
       "cid": 5,
       "name": "Food Network",
-      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8 "
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass "
     },
      {
       "cid": 7,
@@ -271,6 +277,11 @@
       "cid": 8,
       "name": "Fox Movies",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+    },
+{
+      "cid": 8,
+      "name": "FLIK",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/flik.m3u8"
     },
     {
       "cid": 7,
@@ -300,27 +311,27 @@
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/hbo.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/hbo.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/hits.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/hits.m3u8"
     },
     {
       "cid": 8,
-      "name": "HBO FAMILY",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/fam.m3u8"
+      "name": "HBO Family",
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/fam.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO SIGNATURE",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/sig.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/sig.m3u8"
     },
     {
       "cid": 8,
-      "name": "RED HBO",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/red.m3u8"
+      "name": "Red HBO",
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/red.m3u8"
     },
     {
       "cid": 6,
@@ -447,11 +458,6 @@
       "name": "Music Top",
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
-    {
-      "cid": 7,
-      "name": "Nba tv",
-      "stream_url": "http://iptv.burhansyam.com/useetv/nba.m3u8"
-    },
 {
       "cid": 5,
       "name": "National Geographic",
@@ -467,20 +473,20 @@
       "name": "National Geographic People",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
     },
+    {
+      "cid": 4,
+      "name": "NICKELODEON Asia",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass"
+    },
 {
       "cid": 0,
       "name": "Net TV",
-      "stream_url": "http://iptv.burhansyam.com/vidio/net.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "NICKELODEON ASIA",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
     },
 {
       "cid": 4,
       "name": "NICK Jr",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/nickjr/chunklist_w724144812_b684100_sleng.m3u8?enc=dtzuzQREEli2xaAWwGFakQ&exp=1593332686"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/nickjr.m3u8"
     },
     {
       "cid": 4,
@@ -647,6 +653,11 @@
       "name": "Tahfidz TV",
       "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
     },
+{
+      "cid": 8,
+      "name": "Thirill",
+      "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
+    },
     {
       "cid": 0,
       "name": "TATV",
@@ -730,7 +741,7 @@
 {
       "cid": 2,
       "name": "TVN",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448516~acl=/hls-p/ingest_geo_6362_*/*~hmac=5bdad1e3d572924cd2dd61bc62a7e80ac7921be9d4a5aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505431~acl=/hls-p/ingest_geo_6362_*/*~hmac=de64237cb7f888cc395f4783fa2d49352e406ab1dce436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
     },
     {
       "cid": 7,
@@ -741,6 +752,11 @@
       "cid": 1,
       "name": "TVRI Yogyakarta",
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+    },
+{
+      "cid": 4,
+      "name": "Toonmax,
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
     },
     {
       "cid": 3,
@@ -820,7 +836,7 @@
     {
       "cid": 8,
       "name": "Zee Bioskop",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448675~acl=/hls-p/ingest_geo_6399_*/*~hmac=a845525295a20392e1a10ddc313aa93182529146da480955f5537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
     }
   ]
 }
