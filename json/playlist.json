@@ -1,4 +1,3 @@
-
 {
   "categories": [
     {
@@ -31,11 +30,11 @@
     },
     {
       "id": 1,
-      "name": "Berita"
+      "name": "BERITA"
     },
    {
       "id": 6,
-      "name": "Religi"
+      "name": "RELIGI"
     },
     {
       "id": 3,
@@ -61,7 +60,7 @@
     {
       "cid": 5,
       "name": "Animal Planet",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=FE754EEE11C474F6C90452CF989C02463F35BF77&profile=pass"
     },
     {
       "cid": 4,
@@ -126,12 +125,12 @@
 {
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein1.php"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein1.m3u8"
     },
 {
       "cid": 7,
       "name": "BEIN SPORT 2",
-      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein2.php"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein2.m3u8"
     },
     {
       "cid": 3,
@@ -145,13 +144,13 @@
     },
 {
       "cid": 8,
-      "name": "Celestial movies",
+      "name": "Celestial Movies",
       "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
     },
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass"
     },
     {
       "cid": 8,
@@ -166,17 +165,17 @@
     {
       "cid": 7,
       "name": "Champions TV1",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505319~acl=/hls-p/ingest_geo_6685_*/*~hmac=a2b466a534685ada7c198e5049689d616a0d75779739176ba4eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661664~acl=/hls-p/ingest_geo_6685_*/*~hmac=53f31a116f464bc346429b179e4b35a277815300da4b8ad2c3b3235642553040/hls-p/ingest_geo_6685_720p/index.m3u8eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV2",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505353~acl=/hls-p/ingest_geo_6686_*/*~hmac=06557c2a5dfa3b665ff51320718a5f658ae66b288f325fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661702~acl=/hls-p/ingest_geo_6686_*/*~hmac=cf1577f3c699cbdbcded13efd0b92f24094a011f220f3cd5907d926ee721cf92/hls-p/ingest_geo_6686_720p/index.m3u85fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV3",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505367~acl=/hls-p/ingest_geo_6786_*/*~hmac=5d2706b6a5cdd69cfd9e37c5b80d1ead56e77906ee70ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661738~acl=/hls-p/ingest_geo_6786_*/*~hmac=646762233d3a8a4b5de992aa5cf116b71e99749abc72c1e0370d6c1d8f3de2b8/hls-p/ingest_geo_6786_720p/index.m3u870ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
     {
       "cid": 3,
@@ -294,19 +293,9 @@
       "stream_url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Gone Fishing",
-      "stream_url": "https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Gone Hunting",
-      "stream_url": "https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8"
-    },
-    {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "http://iptv.burhansyam.com/globaltvhd.m3u8"
+      "stream_url": "http://brhn.xyz/mnc/globaltvhd.m3u8"
     },
     {
       "cid": 8,
@@ -481,7 +470,7 @@
 {
       "cid": 0,
       "name": "Net TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      "stream_url": "http://210.210.155.35/session/46ac5d54-bbf4-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/02.m3u8"
     },
 {
       "cid": 4,
@@ -741,7 +730,7 @@
 {
       "cid": 2,
       "name": "TVN",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505431~acl=/hls-p/ingest_geo_6362_*/*~hmac=de64237cb7f888cc395f4783fa2d49352e406ab1dce436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593671359~acl=/hls-p/ingest_geo_6362_*/*~hmac=05a83887b77c020b98a383bad48c1f1e7267287dc1717f8ca8b32b1b74a2d3c6/hls-p/ingest_geo_6362_720p/index.m3u8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
     },
     {
       "cid": 7,
