@@ -583,6 +583,11 @@
       "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
     },
     {
+      "cid": 0,
+      "name": "SCTV Tes",
+      "stream_url": "https://dl.dropboxusercontent.com/s/eura3i21jkanj3q/S03%20-%20SCTV.m3u8?dl=0"
+    },
+    {
       "cid": 2,
       "name": "SBS PLUS",
       "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8"
